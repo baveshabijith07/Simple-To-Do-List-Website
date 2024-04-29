@@ -35,6 +35,4 @@ This project is licensed under the MIT License (see the LICENSE file for details
 
 Live Demo: https://baveshabijith07.github.io/Simple-To-Do-List-Website/
 
-Author:
-
-Your Name: BAVESHABIJITH
+Author: BAVESHABIJITH
